@@ -1,0 +1,34 @@
+#### Free IPA API List
+user_add      				// 사용자 추가
+user_find                	// 사용자 조회
+user_show                	// 사용자 상세 정보
+user_mod                 	// 사용자 수정
+user_del                 	// 사용자 삭제
+user_disable             	// 사용자 비활성화
+user_enable              	// 사용자 활성화
+user_status              	// 사용자 상태
+group_find               	// 그룹 조회
+group_add                	// 그룹 추가
+group_del                	// 그룹 삭제
+group_mod                	// 그룹 수정
+host_show                	// 호스트 상세 정보
+host_del                 	// 호스트 삭제
+host_find                	// 호스트 조회
+host_add                 	// 호스트 추가
+hostgroup_add            	// 호스트 그룹 추가 
+hostgroup_find           	// 호스트 그룹 조회
+hostgroup_show           	// 호스트 그룹 상세 정보
+hostgroup_del            	// 호스트 그룹 삭제
+hostgroup_mod            	// 호스트 그룹 수정
+automountlocation_find   	// 자동 위치 등록 조회
+automountlocation_show   	// 자동 위치 등록 상세 정보
+automountlocation_add    	// 자동 위치 등록 추가
+automountlocation_del    	// 자동 위치 등록 삭제
+automountmap_find        	// 자동 맵 등록 조회
+automountmap_show        	// 자동 맵 등록 상세 정보
+automountmap_add         	// 자동 맵 등록 추가
+automountmap_mod         	// 자동 맵 등록 수정
+automountkey_find        	// 자동 키 등록 조회
+automountkey_add         	// 자동 키 등록 추가
+automountkey_mod         	// 자동 키 등록 수정
+automountkey_del         	// 자동 키 등록 삭제
